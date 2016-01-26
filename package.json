@@ -1,0 +1,20 @@
+{
+  "name": "fcc-be-headers",
+  "version": "1.0.0",
+  "description": "Free Code Camp API project: Request Header Parser Microservice",
+  "main": "headers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node headers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbertone/fcc-be-headers.git"
+  },
+  "author": "Fabrizio Bertone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbertone/fcc-be-headers/issues"
+  },
+  "homepage": "https://github.com/fbertone/fcc-be-headers#readme"
+}
